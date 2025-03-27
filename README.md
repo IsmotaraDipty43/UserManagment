@@ -57,4 +57,4 @@ To run this project locally, follow these steps:
 
 
 
-**Developed by [Ismotara Dipty](https://your-portfolio.com)**
+**Developed by [Ismotara Dipty](https://ismotaradipty43.netlify.app/)**
